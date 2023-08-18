@@ -15,6 +15,7 @@ A Content Patcher that replaces the original tractor assets with blue to match t
 *Required Mods: Pathoschild.ContentPatcher, Pathoschild.TractorMod, GenericModConfigMenu, & Cute Valley Blue*
 
 **Mod Compatibility: Windows & Android**
+
 Credits To: Pokegirl Gamer.
 
 # **Installation GUIDE**
